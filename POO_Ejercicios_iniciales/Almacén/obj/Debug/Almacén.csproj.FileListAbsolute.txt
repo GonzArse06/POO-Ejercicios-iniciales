@@ -1,0 +1,7 @@
+C:\Users\gcarranza\Documents\GitHub\POO-Ejercicios-iniciales\POO_Ejercicios_iniciales\Almacén\bin\Debug\Almacén.exe.config
+C:\Users\gcarranza\Documents\GitHub\POO-Ejercicios-iniciales\POO_Ejercicios_iniciales\Almacén\bin\Debug\Almacén.exe
+C:\Users\gcarranza\Documents\GitHub\POO-Ejercicios-iniciales\POO_Ejercicios_iniciales\Almacén\bin\Debug\Almacén.pdb
+C:\Users\gcarranza\Documents\GitHub\POO-Ejercicios-iniciales\POO_Ejercicios_iniciales\Almacén\obj\Debug\Almacén.csprojAssemblyReference.cache
+C:\Users\gcarranza\Documents\GitHub\POO-Ejercicios-iniciales\POO_Ejercicios_iniciales\Almacén\obj\Debug\Almacén.csproj.CoreCompileInputs.cache
+C:\Users\gcarranza\Documents\GitHub\POO-Ejercicios-iniciales\POO_Ejercicios_iniciales\Almacén\obj\Debug\Almacén.exe
+C:\Users\gcarranza\Documents\GitHub\POO-Ejercicios-iniciales\POO_Ejercicios_iniciales\Almacén\obj\Debug\Almacén.pdb
